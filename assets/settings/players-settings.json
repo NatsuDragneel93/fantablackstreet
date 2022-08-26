@@ -1,0 +1,1202 @@
+[
+    {
+        "player": "ANDREA",
+        "team": "AJEJE BRAZZERS",
+        "color": "#fc2803",
+        "image": "./assets/images/ab.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price": 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "ALESSIO",
+        "team": "PEAKY BLINDERS GANG",
+        "color": "#03e7fc",
+        "image": "./assets/images/pb.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "EDOARDO",
+        "team": "SAMCRO",
+        "color": "#03fc24",
+        "image": "./assets/images/samcro.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "MATTEO",
+        "team": "ATLETICO NEGROPONTE",
+        "color": "#5a6061",
+        "image": "./assets/images/an.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "LAURA",
+        "team": "ROONEY TUNES",
+        "color": "#e703fc",
+        "image": "./assets/images/rt.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "FEDERICA",
+        "team": "ATLETICO MA NON TROPPO",
+        "color": "#f207b0",
+        "image": "./assets/images/atl.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "SEBASTIAN",
+        "team": "SPIAZE1906",
+        "color": "#153dbf",
+        "image": "./assets/images/spiaze.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "LUCA",
+        "team": "HANG SQUAT TEAM",
+        "color": "#fc7b0a",
+        "image": "./assets/images/hangsquat.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "SIMONE",
+        "team": "SPORTINO KETZMAJA",
+        "color": "#543a3a",
+        "image": "./assets/images/sportino.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    },
+    {
+        "player": "ALESSANDRO",
+        "team": "65.5 F.C.",
+        "color": "#356e3b",
+        "image": "./assets/images/65.png",
+        "budget": 500,
+        "spesaportieri": 0,
+        "spesadifensori": 0,
+        "spesacentrocampisti": 0,
+        "spesaattaccanti": 0,
+        "spesatotale": 0,
+        "portieri": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "difensori": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "centrocampisti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ],
+        "attaccanti": [
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            },
+            {
+                "name": "",
+                "price" : 0
+            }
+        ]
+    }
+]
